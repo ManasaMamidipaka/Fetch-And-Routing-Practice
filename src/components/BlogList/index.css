@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.blogs-list-container {
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+  margin-top: 40px;
+  align-items: center;
+}
+
+.blogs-list {
+  padding-left: 0px;
+}
